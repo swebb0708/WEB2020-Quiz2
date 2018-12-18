@@ -1,0 +1,26 @@
+body {
+    background-image: url(underwater-802092_1280.jpg);
+    background-size: auto 4500px; 
+    height: 4500px;
+    text-align: center;
+    background-position:center;
+}
+
+.mermaid {
+    background-image: url(https://orig00.deviantart.net/c5d8/f/2014/083/9/9/rpg_maker_vx_sprite___kaze_the_merman_by_geminidrake-d7bj4t8.png);
+    height: 55px;
+    width: 40px;
+    display: inline-block;
+    position: absolute;
+    top:50%;
+    /* animation: swimming 1s ease; */
+}
+
+
+.text_bubble{
+    color:white;
+    font-family:"Comic Sans MS", cursive, sans-serif;	
+
+}
+
+
